@@ -1,3 +1,9 @@
+package dev.rubeen.java.learn.mockito.chapter01;
+
+import dev.rubeen.java.learn.mockito.chapter01.Assignment;
+import dev.rubeen.java.learn.mockito.chapter01.AstroResponse;
+import dev.rubeen.java.learn.mockito.chapter01.Gateway;
+
 import java.util.List;
 
 public class FakeGateway implements Gateway<AstroResponse> {

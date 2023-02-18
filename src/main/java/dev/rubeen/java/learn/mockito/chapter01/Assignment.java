@@ -1,3 +1,5 @@
+package dev.rubeen.java.learn.mockito.chapter01;
+
 public class Assignment {
     private String name;
     private String craft;

@@ -1,3 +1,5 @@
+package dev.rubeen.java.learn.mockito.chapter01;
+
 import java.util.Map;
 import java.util.stream.Collectors;
 

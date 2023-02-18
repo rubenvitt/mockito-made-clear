@@ -1,3 +1,5 @@
+package dev.rubeen.java.learn.mockito.chapter01;
+
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;

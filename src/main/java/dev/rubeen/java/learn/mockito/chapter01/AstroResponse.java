@@ -1,3 +1,5 @@
+package dev.rubeen.java.learn.mockito.chapter01;
+
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
